@@ -36,7 +36,9 @@ import cn.codingforfun.coolweather.util.HttpUtil;
 import cn.codingforfun.coolweather.util.Utility;
 
 /**
+ * 此页面进行天气情况的展示
  * Created by bp404 on 16/11/1.
+ * 本项目Android部分已经开源至Github: https://github.com/bp404/Weather_bp404
  */
 public class WeatherActivity extends Activity implements View.OnClickListener {
 
